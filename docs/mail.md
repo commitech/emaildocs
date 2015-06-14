@@ -2,21 +2,6 @@
 
 It is hard to configure, but once you finished configure the email on your mail client, you will receive a push notification everytime you receive an email. Therefore, you don't have to check your email manually.
 
-## General settings
-
-Here is the general setting of the email
-
-	SSL/TLS Settings
-	username		: [your username]@nussucommit.com
-	password		: [your password]
-
-	Incoming Server	: secure21.webhostinghub.com
-	IMAP Port		: 993
-	POP3 Port		: 995
-
-	Outgoing Server	: secure21.webhostinghub.com
-	SMTP Port		: 465
-
 ## iOS Mail settings
 
 Go to Settings -> Mail, Contacts, Calendars -> Add Account -> Other -> Add Mail Account.
@@ -34,6 +19,19 @@ TBA
 TBA
 
 ## Other mail settings
+
+Here is the general setting of the email
+
+	SSL/TLS Settings
+	username		: [your username]@nussucommit.com
+	password		: [your password]
+
+	Incoming Server	: secure21.webhostinghub.com
+	IMAP Port		: 993
+	POP3 Port		: 995
+
+	Outgoing Server	: secure21.webhostinghub.com
+	SMTP Port		: 465
 
 For other mail settings, you can either try it yourself given the general setting above, or consult with the current Technical manager.
 
