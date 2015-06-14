@@ -1,4 +1,4 @@
-site_name: @nussucommit.com email account
+site_name: nussucommit.com email account
 pages:
     - [index.md, Welcome]
     - [browser.md, Logging in on a browser]
