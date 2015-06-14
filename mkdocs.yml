@@ -1,0 +1,6 @@
+site_name: @nussucommit.com email account
+pages:
+    - [index.md, Welcome]
+    - [browser.md, Logging in on a browser]
+theme: readthedocs
+repo_url: https://github.com/commitech/emaildocs
