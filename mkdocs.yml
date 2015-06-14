@@ -2,5 +2,6 @@ site_name: nussucommit.com email account
 pages:
     - [index.md, Welcome]
     - [browser.md, Logging in on a browser]
+    - [mail.md, Email client]
 theme: readthedocs
 repo_url: https://github.com/commitech/emaildocs
