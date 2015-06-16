@@ -3,5 +3,6 @@ pages:
     - [index.md, Welcome]
     - [browser.md, Logging in on a browser]
     - [mail.md, Email client]
+    - [forward.md, Forward to other email account]
 theme: readthedocs
 repo_url: https://github.com/commitech/emaildocs
