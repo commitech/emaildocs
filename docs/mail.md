@@ -1,6 +1,6 @@
 # Setting up in mail client
 
-It is hard to configure, but once you finished configure the email on your mail client, you will receive a push notification everytime you receive an email. Therefore, you don't have to check your email manually.
+Other alternative to send/receive to/from your personal email address it to set the @nussucommit.com email address to your email client (whether it is in your phone, or your PC). It is quite hard to configure, but once you finished configure the email on your mail client, you will receive a push notification everytime you receive an email. Therefore, you don't have to check your email manually. You can also send an email from the email client.
 
 ## iOS Mail settings
 
@@ -37,5 +37,5 @@ For other mail settings, you can either try it yourself given the general settin
 
 # Test
 
-Test it by sending and receiving emails to your regular mail. If there is any problem, consult with the current Technical Manager.
+Test it by sending and receiving test emails to your personal email. If there is any problem, consult with the current Technical Manager.
 
