@@ -10,6 +10,16 @@ You can use any name and description you want, but make sure the email and passw
 
 Click Next after you fill those information, and on the top bar, choose IMAP (instead of POP). Fill the incoming mail server and outgoing mail server host name. Host name is `secure21.webhosting.hub`, username is `[your username]@nussucommit.com`, password is `[your password]`. Click Next, and you should be done.
 
+# Office 365 Mail settings
+
+Go to Settings(Gear Symbol) -> Options -> Mail -> Accounts -> Connected Accounts.
+
+Press the (+) symbol and add your @nussucommit.com email and password. Wait for you email to load, it takes a while.
+
+After the connection is establised and the status is ok, that means you have successfully connect your office 365 account with you @nussucommit.com.
+
+To send e-mail as your @nussucommit.com email, press (...) symbol when writing a new email, click on 'Show From', and then click on From dropdown button and choose your @nussucommit.com email.
+
 ## Android Mail settings
 
 TBA
@@ -22,20 +32,20 @@ TBA
 
 Here is the general setting of the email
 
-	SSL/TLS Settings
-	username		: [your username]@nussucommit.com
-	password		: [your password]
+  SSL/TLS Settings
+  username    : [your username]@nussucommit.com
+  password    : [your password]
 
-	Incoming Server	: secure21.webhostinghub.com
-	IMAP Port		: 993
-	POP3 Port		: 995
+  Incoming Server : secure21.webhostinghub.com
+  IMAP Port   : 993
+  POP3 Port   : 995
 
-	Outgoing Server	: secure21.webhostinghub.com
-	SMTP Port		: 465
+  Outgoing Server : secure21.webhostinghub.com
+  SMTP Port   : 465
 
 For other mail settings, you can either try it yourself given the general setting above, or consult with the current Technical manager.
 
 # Test
 
-Test it by sending and receiving test emails to your personal email. If there is any problem, consult with the current Technical Manager.
+Test it by sending and receiving test emails to your personal email. If there is any problem, consult with the current Technical Manager or Assistan Manager.
 
