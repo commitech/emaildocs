@@ -10,11 +10,11 @@ You can use any name and description you want, but make sure the email and passw
 
 Click Next after you fill those information, and on the top bar, choose IMAP (instead of POP). Fill the incoming mail server and outgoing mail server host name. Host name is `secure21.webhosting.hub`, username is `[your username]@nussucommit.com`, password is `[your password]`. Click Next, and you should be done.
 
-# Office 365 Mail settings
+## Office 365 Mail settings
 
 Go to Settings(Gear Symbol) -> Options -> Mail -> Accounts -> Connected Accounts.
 
-Press the (+) symbol and add your @nussucommit.com email and password. Wait for you email to load, it takes a while.
+Press the (+) symbol and add your @nussucommit.com email and password. Wait for it to load your email, it might takes a while.
 
 After the connection is establised and the status is ok, that means you have successfully connect your office 365 account with your @nussucommit.com.
 
