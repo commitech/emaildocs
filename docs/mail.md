@@ -16,7 +16,7 @@ Go to Settings(Gear Symbol) -> Options -> Mail -> Accounts -> Connected Accounts
 
 Press the (+) symbol and add your @nussucommit.com email and password. Wait for you email to load, it takes a while.
 
-After the connection is establised and the status is ok, that means you have successfully connect your office 365 account with you @nussucommit.com.
+After the connection is establised and the status is ok, that means you have successfully connect your office 365 account with your @nussucommit.com.
 
 To send e-mail as your @nussucommit.com email, press (...) symbol when writing a new email, click on 'Show From', and then click on From dropdown button and choose your @nussucommit.com email.
 
@@ -47,5 +47,5 @@ For other mail settings, you can either try it yourself given the general settin
 
 # Test
 
-Test it by sending and receiving test emails to your personal email. If there is any problem, consult with the current Technical Manager or Assistan Manager.
+Test it by sending and receiving test emails to your personal email. If there is any problem, consult with the current Technical Manager or Assistant Manager.
 
