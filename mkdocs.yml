@@ -1,10 +1,10 @@
 site_name: nussucommit.com email account
 pages:
-    - [index.md, Welcome]
+    - [index.md, Index]
     - [browser.md, Logging in on a browser]
-    - [forward.md, Forward to other email account]
-    - [sentas.md, Sent email from other email account]
-    - [mail.md, Email client]
+    - [forward.md, Forwarding to other email account]
+    - [sentas.md, Sending email from other email account]
+    - [mail.md, Setting up email client]
     - [misc.md, Miscellaneous]
 theme: readthedocs
 repo_url: https://github.com/commitech/emaildocs
