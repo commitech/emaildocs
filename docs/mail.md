@@ -32,16 +32,16 @@ TBA
 
 Here is the general setting of the email
 
-  SSL/TLS Settings
-  username    : [your username]@nussucommit.com
-  password    : [your password]
+    SSL/TLS Settings
+    username    : [your username]@nussucommit.com
+    password    : [your password]
 
-  Incoming Server : secure21.webhostinghub.com
-  IMAP Port   : 993
-  POP3 Port   : 995
+    Incoming Server : secure21.webhostinghub.com
+    IMAP Port   : 993
+    POP3 Port   : 995
 
-  Outgoing Server : secure21.webhostinghub.com
-  SMTP Port   : 465
+    Outgoing Server : secure21.webhostinghub.com
+    SMTP Port   : 465
 
 For other mail settings, you can either try it yourself given the general setting above, or consult with the current Technical manager.
 
