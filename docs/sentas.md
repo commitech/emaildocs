@@ -1,6 +1,4 @@
-# Sent email from other email account
-
-You also can send every email from your personal email but the email will be sent on behalf of your @nussucommit.com email, so you do not have to login to webmail.nussucommit.com to send an email. This is different for each email service, so we will discuss for each one of them.
+You can also send every email from your personal email but the email will be sent on behalf of your @nussucommit.com email, so you do not have to login to webmail.nussucommit.com to send an email. This is different for each email service, so we will discuss for each one of them.
 
 ## Gmail
 

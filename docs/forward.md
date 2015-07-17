@@ -1,4 +1,4 @@
-# Forward to other email account
+# Forwarding to other email account
 
 You can forward every email that comes to @nussucommit.com to your personal email, so you can check your @nussucommit.com email by checking your personal email. You will not need to login to webmail.nussucommit.com to check email anymore.
 
